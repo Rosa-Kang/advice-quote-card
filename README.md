@@ -42,7 +42,7 @@ This application is generating random quote from a web api and create a card to 
 
 ## About The Project
 
-[Demo link]()
+[Demo link](https://heuristic-wozniak-124f11.netlify.app)
 
 ### Page Look
 
