@@ -46,15 +46,14 @@ This application is generating random quote from a web api and create a card to 
 
 ### Page Look
 
+![Screen Shot 2021-04-22 at 4 02 01 PM](https://user-images.githubusercontent.com/49248131/115795678-3760ca00-a385-11eb-984a-ab3adb69ff7f.png)
+
+
 ---
 
 ## Structure
 
 ---
-
-### 기능
-
-<img width="1680" style="margin:0; padding:0;" alt="스크린샷 2021-01-16 오후 4 10 08" src="https://user-images.githubusercontent.com/59603575/105949828-b4dfab80-60b0-11eb-971d-d4644c5701db.png">
 
 1. Click on the Button to refresh and get new advise
 2. axios.get().then() and DidMount to update the state.data
